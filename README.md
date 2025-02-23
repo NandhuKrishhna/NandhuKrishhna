@@ -81,5 +81,6 @@ A comprehensive fitness platform with:
   </a>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?NandhuKrishhna&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=NandhuKrishhna&color=blue)
+
 
