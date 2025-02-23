@@ -82,10 +82,6 @@ A comprehensive fitness platform with:
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NandhuKrishhna&color=blue)
-![GitHub Repo Stars](https://img.shields.io/github/stars/NandhuKrishhna/your-repo-name?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/NandhuKrishhna/your-repo-name?style=social)
-![GitHub License](https://img.shields.io/github/license/NandhuKrishhna/your-repo-name)
-![GitHub Issues](https://img.shields.io/github/issues/NandhuKrishhna/your-repo-name)
 
 
 
