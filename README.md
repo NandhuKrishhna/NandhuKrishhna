@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Nandhu Krishna</h1>
-<h3 align="center">🚀 Self-Taught MERN Stack Developer | Building Scalable Web Solutions</h3>
+<h1 align="center">Hi, I'm Nandhu Krishna</h1>
+<h3 align="center">Self-Taught MERN Stack Developer | Building Scalable Web Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/nandhukrishhna?tab=repositories"><img src="https://img.shields.io/badge/Projects-20+-blue?style=flat-square&logo=github"></a>
@@ -9,7 +9,7 @@
 
 ---
 
-### 🔥 Current Project
+### Current Project
 **Fitness Hub Pro**  
 A comprehensive fitness platform with:
 - 🏋️ Real-time workout tracking
