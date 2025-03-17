@@ -66,11 +66,6 @@ A comprehensive fitness platform with:
 
 ---
 
-### 💡 Fun Fact :
-> "I started coding by building simple HTML pages, and now I'm creating full-stack applications that help people improve their health! 🚀"
-
----
-
 ### 📫 Let's Connect
 <p align="center">
   <a href="mailto:nandhukrishna393@gmail.com">
