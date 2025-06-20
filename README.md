@@ -43,15 +43,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhukrishhna&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
 </p>
 
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:nandhukrishna393@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/nandhukrishhna/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-</p>
  
